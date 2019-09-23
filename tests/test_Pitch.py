@@ -1,4 +1,4 @@
-from app.models import Comment,User,Pitch
+    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.htmlfrom app.models import Comment,User,Pitch
 from app import db
 import unittest
 
