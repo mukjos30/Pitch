@@ -1,5 +1,6 @@
 # Pitch Project
-
+## Author 
+Josee Mukandayisenga
 ## Description
 This is an application that allows users to create an account then publish and read pitches created by other users. Users can also comment on pitches if they are logged in.
  
