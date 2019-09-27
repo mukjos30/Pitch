@@ -12,6 +12,7 @@ class Config:
     # simple mde  configurations
     SIMPLEMDE_JS_IIFE = True
     SIMPLEMDE_USE_CDN = True
+    SQLALCHEMY_TRACK_MODIFICATIONS = True
 
      #  email configurations
     MAIL_SERVER = 'smtp.googlemail.com'
